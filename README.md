@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wajahat</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer with 2.5+ years of experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wajahat049&label=Profile%20views&color=0e75b6&style=flat" alt="wajahat049" /> </p>
 
 - 🔭 I’m currently working on **projects related to Transport Management, Asset/Media Management, AI Website Generation, Video/Audio Calling Platform**
 
@@ -25,4 +24,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajahat049&show_icons=true&locale=en&layout=compact" alt="wajahat049" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wajahat049&show_icons=true&locale=en" alt="wajahat049" /></p>
