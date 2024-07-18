@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wajahat</h1>
-<h3 align="center">A passionate Full-Stack Software Engineer with 2.5+ years of experience</h3>
+<h3 align="center">A passionate Full-Stack Software Engineer with around 3 years of experience</h3>
 
 
 - 🔭 I’m currently working on **projects related to Transport Management, Asset/Media Management, AI Website Generation, Video/Audio Calling Platform**
